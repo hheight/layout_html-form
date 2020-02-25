@@ -1,0 +1,15 @@
+.form-row {
+  margin: 10px 0;
+}
+
+.form-row:first-of-type {
+  margin-top: 0;
+}
+
+.form-row:last-of-type {
+  margin-bottom: 0;
+}
+
+.speaker-form > fieldset {
+  margin-bottom: 20px;
+}
